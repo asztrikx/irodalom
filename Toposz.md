@@ -4,6 +4,7 @@
 - belső út
 - emberi önsorsirányítás: van-e
 - életszakasz (fordulópontok)
+
 # Éjszaka
 - halál
 - lezárás
@@ -16,3 +17,24 @@
 	- élet megélése: környezetet nem látjuk
 - nyugodtság
 - pokol: út nem találása, nem létezése
+
+# Házasság
+- fordulópont
+- felnőtté avatás
+- újrakezdés
+- termékenység
+
+# Hajnal
+- jó rossz fölötti győzelme
+- új, friss, kezdet, remény
+
+# Koszorú
+- költészet: kiválasztottság
+- Jézus: töviskoszorú (kínzás, gúnyűzés), szentség, glória
+- görög: győztesek
+- menyasszony: tisztaság
+- körkörös: végtelen
+- [R] Solnessől kieg
+
+# Bokor
+- Isten: csipkebokor képében Mózes előtt
