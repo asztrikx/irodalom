@@ -38,3 +38,29 @@
 
 # Bokor
 - Isten: csipkebokor képében Mózes előtt
+
+# Kert
+- Éden
+	- paradicsom
+	- harmónia
+	- idil
+		- ember - természet
+		- ember - ember
+		- ember - Isten
+	- 2 fa, kígyó
+		- emberi döntés
+		- jó, gonosz lehetősége
+		- száműzetés
+- élet értelme
+	- megkeresés
+	- önmagunk művelése
+- menedék, kiindulópont
+- világ formálása
+- bizalom, közel engedés
+- társadalmi egyenlőtlenség?
+- kertész
+	- munka: cél: gondozott kert, dolgozásból öröm, nap kitöltése
+	- lélek
+	- tudás fejlesztése
+		- költészet
+- nyugalom
