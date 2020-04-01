@@ -43,7 +43,7 @@
 - Éden
 	- paradicsom
 	- harmónia
-	- idil
+	- idill
 		- ember - természet
 		- ember - ember
 		- ember - Isten
