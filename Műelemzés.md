@@ -37,6 +37,8 @@
 # Szerkezet
 - tagolás
 
+# Vershelyzetek
+
 # Elbeszélő
 - szám személy
 - mindenttudó
