@@ -3,7 +3,9 @@
 - nyeltani elemek utalásai
 	- ragok, ...
 
-# Műfaj-meghatározás
+# Műfaj-, verstípus-meghatározás
+- önértelmező/létértelmező
+- önmegszólító
 
 # Forma
 - tagolás
