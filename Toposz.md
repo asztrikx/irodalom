@@ -64,3 +64,9 @@
 	- tudás fejlesztése
 		- költészet
 - nyugalom
+
+# Folyó (archetípus valójában)
+- örök megújulás
+- bölcs nyugalom
+- gyermeki játékosság
+- feszült erők, elernyedés
