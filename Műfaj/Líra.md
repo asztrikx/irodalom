@@ -45,6 +45,9 @@
 		- lírai én (maga-, közösség nevében) kéréssel fordul, fohászkódik természet feletti erőhöz
 		- természet feletti befolyásolása -> magasztalása
 	- pl: Kölcsey Ferenc: Himnusz
+- `rapszódia`
+	- hevesebb, elragadtatottabb -> széttöri a formát, többféle darab lesz
+	- pl: Petőfi Sándor: Egy gondolat bánt engemet
 
 # Ecloga
 - párbeszéd
@@ -54,8 +57,6 @@
 	- aranykor visszahozásának lehetősége
 - aktuális társadalmi, politikai problémák: álruhás pásztorok
 - pl: Vergilius: IX. Ekloga
-
-# Rapszódia
 
 # Ballada
 
