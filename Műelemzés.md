@@ -111,6 +111,7 @@
 - parodisztikus
 - letargikus
 - ironizáló
+- idilli -> bukolika/pásztorének
 
 
 # Cím újraértelmezése, bekapcsolása
