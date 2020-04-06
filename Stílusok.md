@@ -30,6 +30,7 @@ képzőművészetben
 > Századforduló stílusirányzata  
 > Egyszerűsített forma, keleti világ motívumai  
 > Dekadens életérzés  
+
 Természettel harmonizál  
 Hangulati, erotikus túlfűtöttség  
 Színek erőssége  
