@@ -46,6 +46,21 @@
 		- természet feletti befolyásolása -> magasztalása
 	- pl: Kölcsey Ferenc: Himnusz
 
+# Ecloga
+- párbeszéd
+- hexameter, időmérték
+- idő-, értékszembesítő
+- reményteli jövő
+	- aranykor visszahozásának lehetősége
+- aktuális társadalmi, politikai problémák: álruhás pásztorok
+- pl: Vergilius: IX. Ekloga
+
+# Rapszódia
+
+# Ballada
+
+# Zsoltár
+
 # Versformák
 - `szonett`
 	- 14 sor
