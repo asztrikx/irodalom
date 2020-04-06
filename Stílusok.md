@@ -29,7 +29,7 @@ képzőművészetben
 # Szecesszió/Preraffaelita mozgalom
 > Századforduló stílusirányzata  
 > Egyszerűsített forma, keleti világ motívumai  
-> Hangulati, erotikus túlfűtöttség  
-> Színek erőssége  
 > Dekadens életérzés  
-> Természettel harmonizál  
+Természettel harmonizál  
+Hangulati, erotikus túlfűtöttség  
+Színek erőssége  
