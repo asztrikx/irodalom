@@ -84,7 +84,12 @@
 	- gondolati ritmus
 	- párhuzam
 	- Biliai elemek (bokor láng, ...)
-		- számszimbolika (3, ...)
+		- számszimbolika
+			- 3
+				- Ég és a Föld egyesüléséből létrehozott ember
+				- teljessé lett isteni megnyilvánulás
+				- tökéletesség rendje
+				- [R] TODO
 - magyarázó
 - himnusz
 	- Mária
